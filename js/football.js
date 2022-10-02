@@ -87,7 +87,7 @@ function playerExpence() {
     setExpense('player-expence', playerExpense);
     return playerExpense;
 }
-
+// total cal
 function totalExpenseCalaulate(){
     const managerExpense = findInput('manager-cost');
     const coachExpense = findInput('coach-cost');
