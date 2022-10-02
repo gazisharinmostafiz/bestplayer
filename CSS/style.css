@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;700&family=Poppins:wght@400;500&display=swap');
+.header{
+    background-image: url("../images/header.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+.header h1{
+    font-family: "Sofia", sans-serif;
+}
+
+.header-style{
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 10%;
+}
+.row-design{
+    margin-left: 10 !important;
+    margin-right: 10 !important;
+}
